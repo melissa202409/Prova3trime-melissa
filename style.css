@@ -1,0 +1,18 @@
+body {background-color: blueviolet;margin-top: 0px;}
+nav a {margin-top: 5px;
+padding: 2px;
+font-size: 15px;
+color: cornflowerblue;
+display: flex;
+justify-content: center;}
+
+h1{color: darkorange;
+padding-top: 7%;
+}
+
+.gatocinza {font-style: italic;}
+img
+{width: 55%;}
+
+.centro{text-align: center;}
+
